@@ -1,0 +1,60 @@
+body {
+  background-color: #1b263b;
+  font-family: Apple Chancery, cursive;
+  color: #e0e1dd;
+}
+
+h2 {
+  margin-right: 50px;
+}
+.alert-warning {
+  background-color: #e0e1dd !important;
+  border-color: #e0e1dd !important;
+  color: #011627;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.btn-primary {
+  background: linear-gradient(
+    to right,
+    #fa004bc0,
+    #f20089a6,
+    #b200e8b0,
+    #2d00f7b7
+  );
+  color: #e0e1dd;
+  border: 2px solid #011627;
+  border-radius: 45px;
+}
+.navbar-expand-lg {
+  background-color: #011627;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #e0e1dd;
+}
+
+.card {
+  background-color: #415a77;
+  color: #e0e1dd;
+}
+.btn-info {
+  background-color: #415a77;
+  color: #e0e1dd;
+  border: 2px solid #011627;
+  border-radius: 25px;
+}
+footer {
+  background-color: #0d1b2a;
+}
+.foot {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.row {
+  margin-top: 30px;
+}
